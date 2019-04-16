@@ -1,0 +1,11 @@
+/Users/apple/workspace/csharp/exercises/Zoological/bin/Debug/netcoreapp2.2/Zoological.deps.json
+/Users/apple/workspace/csharp/exercises/Zoological/bin/Debug/netcoreapp2.2/Zoological.runtimeconfig.json
+/Users/apple/workspace/csharp/exercises/Zoological/bin/Debug/netcoreapp2.2/Zoological.runtimeconfig.dev.json
+/Users/apple/workspace/csharp/exercises/Zoological/bin/Debug/netcoreapp2.2/Zoological.dll
+/Users/apple/workspace/csharp/exercises/Zoological/bin/Debug/netcoreapp2.2/Zoological.pdb
+/Users/apple/workspace/csharp/exercises/Zoological/obj/Debug/netcoreapp2.2/Zoological.csprojAssemblyReference.cache
+/Users/apple/workspace/csharp/exercises/Zoological/obj/Debug/netcoreapp2.2/Zoological.csproj.CoreCompileInputs.cache
+/Users/apple/workspace/csharp/exercises/Zoological/obj/Debug/netcoreapp2.2/Zoological.AssemblyInfoInputs.cache
+/Users/apple/workspace/csharp/exercises/Zoological/obj/Debug/netcoreapp2.2/Zoological.AssemblyInfo.cs
+/Users/apple/workspace/csharp/exercises/Zoological/obj/Debug/netcoreapp2.2/Zoological.dll
+/Users/apple/workspace/csharp/exercises/Zoological/obj/Debug/netcoreapp2.2/Zoological.pdb
